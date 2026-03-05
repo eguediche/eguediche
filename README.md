@@ -17,7 +17,7 @@ Déterminé, curieux — je construis, je casse, j'apprends, je recommence.
 
 **Maîtrisé / Comfortable with**
 
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="60"/></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="200"/></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="60"/></a>
 <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="60"/></a>
 <a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="60"/></a>
@@ -42,6 +42,6 @@ Déterminé, curieux — je construis, je casse, j'apprends, je recommence.
 
 *"Chaque projet est une occasion d'apprendre quelque chose de nouveau — alors autant en faire beaucoup."*
 
-*"Every project is a chance to learn something new — so might as well build a lot of them."*
+*"Every project is a chance to learn something new — so might as well do a lot of them."*
 
 </div>
