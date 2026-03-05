@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Eguediche&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Web%20%26%20Mobile%20Developer&descAlignY=55&descSize=18&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0,000000,100,ffffff&height=180&section=header&text=Eguediche&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=18&fontColor=ffffff)
 
 <div align="center">
 
@@ -10,30 +10,6 @@ Déterminé, curieux — je construis, je casse, j'apprends, je recommence.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
 
 </div>
-
----
-
-## Qui suis-je ? / Who am I?
-
-```javascript
-const eguediche = {
-    role     : "Full Stack Web & Mobile Developer",
-    based    : "France",
-    learning : ["Laravel", "Node.js", "React", "Vue.js", "Symfony", "Lua"],
-    goals    : "Apprendre en continu et construire des projets qui ont du sens",
-    fun_fact : "Je prépare aussi un jeu Roblox — parce que pourquoi pas.",
-};
-```
-
-```javascript
-const eguediche = {
-    role     : "Full Stack Web & Mobile Developer",
-    based    : "France",
-    learning : ["Laravel", "Node.js", "React", "Vue.js", "Symfony", "Lua"],
-    goals    : "Keep learning and build things that actually matter",
-    fun_fact : "Also working on a Roblox game — because why not.",
-};
-```
 
 ---
 
@@ -64,9 +40,9 @@ const eguediche = {
 
 ## Projets / Projects
 
-> Tu trouveras ici des projets perso, des expérimentations, et tout ce que j'ai construit en apprenant. Chaque repo est une étape.
+Tu trouveras ici des projets perso, des expérimentations, et tout ce que j'ai construit en apprenant. Chaque repo est une étape.
 
-> *You'll find personal projects, experiments, and everything I built while learning. Each repo is a step forward.*
+*You'll find personal projects, experiments, and everything I built while learning. Each repo is a step forward.*
 
 ---
 
@@ -83,10 +59,10 @@ const eguediche = {
 
 <div align="center">
 
-> "Chaque projet est une occasion d'apprendre quelque chose de nouveau — alors autant en faire beaucoup."
->
-> *"Every project is a chance to learn something new — so might as well build a lot of them."*
+*"Chaque projet est une occasion d'apprendre quelque chose de nouveau — alors autant en faire beaucoup."*
+
+*"Every project is a chance to learn something new — so might as well build a lot of them."*
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0,ffffff,100,000000&height=100&section=footer)
