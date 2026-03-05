@@ -35,7 +35,7 @@ Déterminé, curieux — je construis, je casse, j'apprends, je recommence.
 <a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="60"/></a>
 <a href="https://symfony.com/doc"><img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" height="60"/></a>
 <a href="https://www.lua.org/docs.html"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" height="60"/></a>
-
+<a href="https://docs.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40"/></a>
 ---
 
 <div align="center">
