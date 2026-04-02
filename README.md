@@ -7,7 +7,7 @@ Déterminé, curieux — je construis, je casse, j'apprends, je recommence.
 *Determined and curious — I build, break, learn, and start again.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white)](https://eguediche.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eguediche/)
 
 </div>
 
